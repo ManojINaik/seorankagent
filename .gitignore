@@ -1,0 +1,29 @@
+seo_agent/~/
+~/.config/
+.config/
+**/.config/browseruse/
+**/Cache/
+**/GrShaderCache/
+**/ShaderCache/
+**/Code Cache/
+**/GPUCache/
+**/Local Storage/
+**/Session Storage/
+*.log
+*~
+# Ignore all files inside .config
+~/.config/
+.config/
+
+# More specific ignores to be safe
+**/Cache/
+**/Cache_Data/
+**/BraveWallet/
+**/Crowd Deny/
+**/CertificateRevocation/
+**/AmountExtractionHeuristicRegexes/
+**/segmentation_platform/
+*.log
+*.log.old
+*.db
+*wal
