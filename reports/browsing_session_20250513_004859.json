@@ -1,0 +1,32 @@
+{
+  "start_time": "2025-05-13 00:23:37",
+  "searches": [
+    {
+      "query": "murdeshwar hotel",
+      "start_time": "2025-05-13 00:23:37",
+      "found_target": false,
+      "completed": true,
+      "result": "Error: 'AgentHistoryList' object has no attribute 'lower'",
+      "duration": 343.2
+    },
+    {
+      "query": "book scuba diving in murdeshwar",
+      "start_time": "2025-05-13 00:29:31",
+      "found_target": false,
+      "completed": true,
+      "result": "Error: 'AgentHistoryList' object has no attribute 'lower'",
+      "duration": 664.24
+    },
+    {
+      "query": "murudeshwar lodges prices",
+      "start_time": "2025-05-13 00:40:54",
+      "found_target": false,
+      "completed": true,
+      "result": "Error: 'AgentHistoryList' object has no attribute 'lower'",
+      "duration": 485.35
+    }
+  ],
+  "total_interactions": 0,
+  "website_visits": 0,
+  "session_duration": 1522.49
+}

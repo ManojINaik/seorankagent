@@ -1,0 +1,32 @@
+{
+  "start_time": "2025-05-13 00:21:31",
+  "searches": [
+    {
+      "query": "murudeshwar lodges prices",
+      "start_time": "2025-05-13 00:21:31",
+      "found_target": false,
+      "completed": false,
+      "result": "Error: Agent.__init__() got an unexpected keyword argument 'browser_context_config'",
+      "duration": 0.03
+    },
+    {
+      "query": "murudeshwar travel guide",
+      "start_time": "2025-05-13 00:21:59",
+      "found_target": false,
+      "completed": false,
+      "result": "Error: Agent.__init__() got an unexpected keyword argument 'browser_context_config'",
+      "duration": 0.0
+    },
+    {
+      "query": "book scuba diving in murdeshwar",
+      "start_time": "2025-05-13 00:22:12",
+      "found_target": false,
+      "completed": false,
+      "result": "Error: Agent.__init__() got an unexpected keyword argument 'browser_context_config'",
+      "duration": 0.01
+    }
+  ],
+  "total_interactions": 0,
+  "website_visits": 0,
+  "session_duration": 40.81
+}

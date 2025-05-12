@@ -1,0 +1,32 @@
+2025/05/13-00:23:43.816 38e4 Creating DB M:\browser-use\seo_agent\~\.config\browseruse\profiles\default\Default\Local Storage\leveldb since it was missing.
+2025/05/13-00:23:43.868 38e4 Reusing MANIFEST M:\browser-use\seo_agent\~\.config\browseruse\profiles\default\Default\Local Storage\leveldb/MANIFEST-000001
+2025/05/13-00:25:49.213 e150 Level-0 table #5: started
+2025/05/13-00:25:49.228 e150 Level-0 table #5: 109471 bytes OK
+2025/05/13-00:25:49.234 e150 Delete type=0 #3
+2025/05/13-00:26:21.729 e150 Level-0 table #7: started
+2025/05/13-00:26:21.741 e150 Level-0 table #7: 108789 bytes OK
+2025/05/13-00:26:21.749 e150 Delete type=0 #4
+2025/05/13-00:27:16.273 e150 Level-0 table #9: started
+2025/05/13-00:27:16.280 e150 Level-0 table #9: 117749 bytes OK
+2025/05/13-00:27:16.288 e150 Delete type=0 #6
+2025/05/13-00:27:29.778 e150 Level-0 table #11: started
+2025/05/13-00:27:29.784 e150 Level-0 table #11: 108841 bytes OK
+2025/05/13-00:27:29.790 e150 Delete type=0 #8
+2025/05/13-00:36:54.931 e150 Level-0 table #13: started
+2025/05/13-00:36:54.938 e150 Level-0 table #13: 51709 bytes OK
+2025/05/13-00:36:54.944 e150 Delete type=0 #10
+2025/05/13-00:39:42.066 e150 Level-0 table #15: started
+2025/05/13-00:39:42.073 e150 Level-0 table #15: 65255 bytes OK
+2025/05/13-00:39:42.077 e150 Delete type=0 #12
+2025/05/13-00:39:42.077 e150 Compacting 4@0 + 1@1 files
+2025/05/13-00:39:42.085 e150 Generated table #16@0: 17 keys, 50144 bytes
+2025/05/13-00:39:42.085 e150 Compacted 4@0 + 1@1 files => 50144 bytes
+2025/05/13-00:39:42.088 e150 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/13-00:39:42.089 e150 Delete type=2 #7
+2025/05/13-00:39:42.089 e150 Delete type=2 #9
+2025/05/13-00:39:42.089 e150 Delete type=2 #11
+2025/05/13-00:39:42.089 e150 Delete type=2 #13
+2025/05/13-00:39:42.089 e150 Delete type=2 #15
+2025/05/13-00:40:27.298 e150 Level-0 table #18: started
+2025/05/13-00:40:27.313 e150 Level-0 table #18: 54422 bytes OK
+2025/05/13-00:40:27.317 e150 Delete type=0 #14
